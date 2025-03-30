@@ -1,38 +1,48 @@
-name: Auto Update
-
+name: Sync and Process
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时的第0分钟执行
-  workflow_dispatch: # 允许手动触发
-
+    - cron: '0 * * * *'  # 每小时整点运行
+  workflow_dispatch:
 jobs:
-  update:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: 检出仓库
         uses: actions/checkout@v4
-
-      - name: Sync with upstream
-        id: sync
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
         with:
-          target_sync_branch: main
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_sync_repo: <upstream-repo-owner>/<upstream-repo-name>
-          upstream_sync_branch: main
-          test_mode: false
+          fetch-depth: 0  # 获取完整提交历史
 
-      - name: Modify clash.yml
-        if: steps.sync.outputs.has_new_commits == 'true'
+      - name: 配置Git用户
         run: |
-          # 删除clash.yml的第一行和最后一行
-          sed -i '1d;$d' clash.yml
+          git config --global user.name "AutoSyncBot"
+          git config --global user.email "[email protected]"
 
-      - name: Commit changes
-        if: steps.sync.outputs.has_new_commits == 'true'
+      - name: 添加上游仓库
+        run: git remote add upstream https://github.com/aiboboxx/clashfree.git
+
+      - name: 拉取上游更新
+        run: git fetch upstream
+
+      - name: 合并上游分支 (允许强制合并)
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-email@example.com'
+          git checkout main
+          git merge --strategy-option=theirs upstream/main || true  # 强制接受上游更改
+          git clean -f  # 清理未跟踪文件
+
+      - name: 删除clash.yml首尾行
+        run: |
+          if [ -f clash.yml ]; then
+            sed -i '1d;$d' clash.yml  # 直接修改原文件
+          else
+            echo "clash.yml不存在，跳过处理"
+          fi
+
+      - name: 提交并推送更改
+        run: |
           git add clash.yml
-          git commit -m 'Update clash.yml' || echo "No changes to commit"
-          git push origin main
+          if ! git diff --quiet HEAD; then
+            git commit -m "自动处理clash.yml并同步上游"
+            git push origin main
+          else
+            echo "无变更需要提交"
+          fi
