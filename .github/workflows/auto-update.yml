@@ -33,6 +33,7 @@ jobs:
         run: |
           if [ -f clash.yml ]; then
             sed -i '1d;$d' clash.yml  # 直接修改原文件
+            sed -i '/cipher: ss/d' clash.yml
           else
             echo "clash.yml不存在，跳过处理"
           fi
