@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -129,23 +128,6 @@ proxies:
   - {name: 🇮🇪 12|🇮🇪 爱尔兰|@ripaojiedian, server: ie1.opensocks.site, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ZTAwMGEw, udp: true}
   - {name: 🇻🇳 12|🇻🇳 越南|@ripaojiedian, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true}
   - {name: 🇭🇰 13|香港|@ripaojiedian, server: 103.30.78.24, port: 10295, type: vmess, uuid: 9a948e66-2cad-4064-9585-6c37840c62dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 13|香港2|@ripaojiedian, server: 183.232.229.164, port: 11002, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU, udp: true}
-  - {name: 🇭🇰 13|香港4|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15004, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206RkdCMkhCTUZKN1hBUTg3Wg, udp: true}
-  - {name: 🇭🇰 13|香港5|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15016, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UlJTV1BGS0dDTDkwMk9QOA, udp: true}
-  - {name: 🇨🇳 13|台湾|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 21006, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206REk2SlFGWTdWN1VBVVY3UA, udp: true}
-  - {name: 🇨🇳 13|台湾2|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 21004, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OEs1SEczU0kzMENQNzJPRQ, udp: true}
-  - {name: 🇯🇵 13|日本3|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 18004, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UlM4SjRMMTBHWVhPRzRXVg, udp: true}
-  - {name: 🇯🇵 13|日本4|@ripaojiedian, server: 61.172.235.22, port: 11001, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU, udp: true}
-  - {name: 🇯🇵 13|日本5|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 18014, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206WlI3U09USEFBWE84MVNBVQ, udp: true}
-  - {name: 🇸🇬 13|新加坡|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 16012, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206QTJPT0Q5TjYwUkZGN0oyVA, udp: true}
-  - {name: 🇸🇬 13|新加坡2|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 16011, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206NVNHTzZOS1BQVVFWRDY5Ug, udp: true}
-  - {name: 🇺🇸 13|美国3|@ripaojiedian, server: 147.78.3.137, port: 20032, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206WkpDQ1IwMDNSOU45WFVZMQ, udp: true}
-  - {name: 🇺🇸 13|美国4|@ripaojiedian, server: ti3hyra4.slashdevslashnetslashtun.net, port: 17008, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206SlU4RzE2SlVKNjdRNjE4Ug, udp: true}
-  - {name: 🇰🇷 13|韩国特殊|@ripaojiedian, server: 54.169.103.201, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇯🇵 13|日本特殊|@ripaojiedian, server: 54.169.64.23, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 52.76.22.133, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇮🇪 13|爱尔兰|@ripaojiedian, server: ie1.opensocks.site, port: 8388, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEF3TUdFdw, udp: true}
-  - {name: 🇻🇳 13|越南|@ripaojiedian, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB, udp: true}
   - {name: 14|HK_speednode_0036, server: ru.mjt000.com, port: 443, type: trojan, password: 6557bf4a-852b-4a69-ad35-d53293386a13, sni: ru.mjt000.com, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8764, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202503170996717-bgAUFz3awY.download.microsoft.com}, udp: true}
   - {name: 🇺🇸 美国|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8771, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202503170996717-bgAUFz3awY.download.microsoft.com}, udp: true}
@@ -11598,4 +11580,3 @@ rules:
   - PROCESS-NAME,WebTorrent Helper,🎯 全球直连
   - PROCESS-NAME,DownloadService,🎯 全球直连
   - PROCESS-NAME,Weiyun,🎯 全球直连
-  - DOMAIN-KEYWORD,aria2,🎯 全球直连
