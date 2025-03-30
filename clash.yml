@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10997,4 +10996,3 @@ rules:
   - PROCESS-NAME,Weiyun,🎯 全球直连
   - DOMAIN-KEYWORD,aria2,🎯 全球直连
   - DOMAIN-KEYWORD,xunlei,🎯 全球直连
-  - DOMAIN-KEYWORD,yunpan,🎯 全球直连
