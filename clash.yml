@@ -1,4 +1,3 @@
-  fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
@@ -11456,4 +11455,3 @@ rules:
   - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
   - DOMAIN,download.jetbrains.com,🎯 全球直连
-  - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
