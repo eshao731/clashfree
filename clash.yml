@@ -1,4 +1,3 @@
-  listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
   use-hosts: true
@@ -11573,4 +11572,3 @@ rules:
   - PROCESS-NAME,Thunder,🎯 全球直连
   - PROCESS-NAME,Transmission,🎯 全球直连
   - PROCESS-NAME,uTorrent,🎯 全球直连
-  - PROCESS-NAME,WebTorrent,🎯 全球直连
