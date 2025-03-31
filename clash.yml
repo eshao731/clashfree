@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
@@ -11450,4 +11449,3 @@ rules:
   - DOMAIN-SUFFIX,zhangzishi.cc,🎯 全球直连
   - DOMAIN-SUFFIX,zhihu.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhihuishu.com,🎯 全球直连
-  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
