@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11882,4 +11881,3 @@ rules:
   - DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
   - DOMAIN-SUFFIX,snwx.com,🎯 全球直连
   - DOMAIN-SUFFIX,s-reader.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sspai.com,🎯 全球直连
