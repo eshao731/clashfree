@@ -1,4 +1,3 @@
-  - {name: 🇰🇷 0|🇰🇷韩国 02 | 1x KR, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇵🇭 0|🇵🇭菲律宾 01 | 1x PH, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇺🇸 0|🇺🇸美国 01 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
   - {name: 🇺🇸 0|🇺🇸美国家宽 02 | 1x US Los Angeles, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 1cb91c89-473c-4ea5-80e3-276dedfe673b, udp: true}
@@ -11426,4 +11425,3 @@ rules:
   - DOMAIN-SUFFIX,tophub.today,🎯 全球直连
   - DOMAIN-SUFFIX,uning.com,🎯 全球直连
   - DOMAIN-SUFFIX,weather.com,🎯 全球直连
-  - DOMAIN-SUFFIX,weico.cc,🎯 全球直连
