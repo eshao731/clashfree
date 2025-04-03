@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -10743,4 +10742,3 @@ rules:
   - DOMAIN-SUFFIX,frdic.com,🎯 全球直连
   - DOMAIN-SUFFIX,futu5.com,🎯 全球直连
   - DOMAIN-SUFFIX,futunn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gandi.net,🎯 全球直连
