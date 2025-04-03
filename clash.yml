@@ -1,4 +1,3 @@
-external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
 hosts:
@@ -10739,4 +10738,3 @@ rules:
   - DOMAIN-SUFFIX,feng.com,🎯 全球直连
   - DOMAIN-SUFFIX,fengkongcloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,frdic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,futu5.com,🎯 全球直连
