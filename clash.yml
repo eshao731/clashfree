@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10733,4 +10732,3 @@ rules:
   - DOMAIN-SUFFIX,dytt8.net,🎯 全球直连
   - DOMAIN-SUFFIX,eastmoney.com,🎯 全球直连
   - DOMAIN-SUFFIX,eudic.net,🎯 全球直连
-  - DOMAIN-SUFFIX,feng.com,🎯 全球直连
