@@ -1,4 +1,3 @@
-  fake-ip-filter: ["*.n.n.srv.nintendo.net", +.stun.playstation.net, xbox.*.*.microsoft.com, "*.msftncsi.com", "*.msftconnecttest.com", WORKGROUP, "*.lan", stun.*.*.*, stun.*.*, time.windows.com, time.nist.gov, time.apple.com, time.asia.apple.com, "*.ntp.org.cn", "*.openwrt.pool.ntp.org", time1.cloud.tencent.com, time.ustc.edu.cn, pool.ntp.org, ntp.ubuntu.com, "*.*.xboxlive.com", speedtest.cros.wr.pvp.net]
   nameserver: [tls://223.5.5.5:853, https://223.6.6.6/dns-query, https://120.53.53.53/dns-query]
   nameserver-policy: {+.tmall.com: 223.5.5.5, +.taobao.com: 223.5.5.5, +.alicdn.com: 223.5.5.5, +.aliyun.com: 223.5.5.5, +.alipay.com: 223.5.5.5, +.alibaba.com: 223.5.5.5, +.qq.com: 119.29.29.29, +.tencent.com: 119.29.29.29, +.weixin.com: 119.29.29.29, +.qpic.cn: 119.29.29.29, +.jd.com: 119.29.29.29, +.bilibili.com: 119.29.29.29, +.hdslb.com: 119.29.29.29, +.163.com: 119.29.29.29, +.126.com: 119.29.29.29, +.126.net: 119.29.29.29, +.127.net: 119.29.29.29, +.netease.com: 119.29.29.29, +.baidu.com: 223.5.5.5, +.bdstatic.com: 223.5.5.5, +.bilivideo.+: 119.29.29.29, +.iqiyi.com: 119.29.29.29, +.douyinvod.com: 180.184.1.1, +.douyin.com: 180.184.1.1, +.douyincdn.com: 180.184.1.1, +.douyinpic.com: 180.184.1.1, +.feishu.cn: 180.184.1.1}
   fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
@@ -61,12 +60,9 @@ proxies:
   - {name: 🇸🇬 11|🇸🇬 狮城特殊|@ripaojiedian, server: 13.250.61.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇫🇷 11|🇫🇷 法国|@ripaojiedian, server: fr2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: fr2a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85, headers: {Host: fr2a.88888007.xyz}}, udp: true}
   - {name: 🇷🇺 11|🇷🇺 俄罗斯|@ripaojiedian, server: ru1a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, sni: ru1a.88888007.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85, headers: {Host: ru1a.88888007.xyz}}, udp: true}
-  - {name: "12|tg频道:@ripaojiedian #1", server: 54.199.167.92, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
   - {name: 🇭🇰 12|香港|@ripaojiedian, server: 7ea30b67-submo0-t23v18-6wpo.d.volczijie.com, port: 4136, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 12|香港2|@ripaojiedian, server: 120.232.153.40, port: 41002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 12|日本2|@ripaojiedian, server: daring-gobbler.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 12|日本3|@ripaojiedian, server: 120.233.205.203, port: 18001, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OEpMU1RSNDk3M01NVDhFMw, udp: true}
-  - {name: 🇯🇵 12|日本4|@ripaojiedian, server: 183.236.51.167, port: 26735, type: ss, cipher: ss, password: //YWVzLTEyOC1nY206M2I2ZjgwNDMtNTg3Ni00MzJhLWE4NTMtZjVkMjkyMDgwNjUx, udp: true}
   - {name: 🇯🇵 12|日本6|@ripaojiedian, server: possible-tiger.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260700211203800, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 12|日本7|@ripaojiedian, server: c50e5830-submo0-t23v18-6wpo.c.volczijie.com, port: 4151, type: vmess, uuid: aada003a-bc20-11ee-8ebe-f23c93136cb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 12|日本8|@ripaojiedian, server: gzhmbkqt.xn--fiqs8sjz2bull.com, port: 33184, type: vmess, uuid: 65639009-9ea3-4b5b-8f6e-bba5ef17e350, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
@@ -74,9 +70,6 @@ proxies:
   - {name: 🇺🇸 12|美国3|@ripaojiedian, server: us2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
   - {name: 🇺🇸 12|美国4|@ripaojiedian, server: us3a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
   - {name: 🇺🇸 12|美国6|@ripaojiedian, server: us4a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /92024db4-eadf-4cd1-b7e5-87d047d353f0}, udp: true}
-  - {name: 🇰🇷 12|韩国特殊|@ripaojiedian, server: 54.238.109.190, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇯🇵 12|日本特殊|@ripaojiedian, server: 47.129.238.196, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇸🇬 12|狮城特殊|@ripaojiedian, server: 13.250.61.152, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
   - {name: 🇫🇷 12|法国|@ripaojiedian, server: fr2a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85}, udp: true}
   - {name: 🇷🇺 12|俄罗斯|@ripaojiedian, server: ru1a.88888007.xyz, port: 443, type: trojan, password: c97cf46e-1554-36cb-8b36-c3556b883dc4, skip-cert-verify: false, network: ws, ws-opts: {path: /3f741a9f-3c66-4102-838c-c77524d32d85}, udp: true}
   - {name: 🇭🇰 14|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: b2336a9b-f641-4817-aa88-3874046adf25, udp: true}
@@ -11198,4 +11191,3 @@ rules:
   - DOMAIN-SUFFIX,totheglory.im,🎯 全球直连
   - DOMAIN-SUFFIX,cn,🎯 全球直连
   - DOMAIN-SUFFIX,115.com,🎯 全球直连
-  - DOMAIN-SUFFIX,360in.com,🎯 全球直连
