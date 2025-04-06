@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -11294,4 +11293,3 @@ rules:
   - DOMAIN-SUFFIX,jpopsuki.eu,🎯 全球直连
   - DOMAIN-SUFFIX,keepfrds.com,🎯 全球直连
   - DOMAIN-SUFFIX,madsrevolution.net,🎯 全球直连
-  - DOMAIN-SUFFIX,morethan.tv,🎯 全球直连
