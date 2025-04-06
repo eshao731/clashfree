@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 3dd06512-f31f-48b9-921f-8da7f0cc183b, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 3dd06512-f31f-48b9-921f-8da7f0cc183b, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 3dd06512-f31f-48b9-921f-8da7f0cc183b, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 3dd06512-f31f-48b9-921f-8da7f0cc183b, udp: true}
@@ -11174,4 +11173,3 @@ rules:
   - DOMAIN-SUFFIX,ncore.cc,🎯 全球直连
   - DOMAIN-SUFFIX,open.cd,🎯 全球直连
   - DOMAIN-SUFFIX,ourbits.club,🎯 全球直连
-  - DOMAIN-SUFFIX,passthepopcorn.me,🎯 全球直连
