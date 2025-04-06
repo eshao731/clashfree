@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11290,4 +11289,3 @@ rules:
   - DOMAIN-SUFFIX,hdsky.me,🎯 全球直连
   - DOMAIN-SUFFIX,icetorrent.org,🎯 全球直连
   - DOMAIN-SUFFIX,jpopsuki.eu,🎯 全球直连
-  - DOMAIN-SUFFIX,keepfrds.com,🎯 全球直连
