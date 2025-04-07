@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 719b3056-126a-43fd-b45b-e4a205e54512, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 719b3056-126a-43fd-b45b-e4a205e54512, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 719b3056-126a-43fd-b45b-e4a205e54512, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 719b3056-126a-43fd-b45b-e4a205e54512, udp: true}
@@ -11416,4 +11415,3 @@ rules:
   - DOMAIN,ip.istatmenus.app,🎯 全球直连
   - DOMAIN,sms.imagetasks.com,🎯 全球直连
   - DOMAIN-SUFFIX,netspeedtestmaster.com,🎯 全球直连
-  - DOMAIN,speedtest.macpaw.com,🎯 全球直连
