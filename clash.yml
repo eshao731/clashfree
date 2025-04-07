@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -11114,4 +11113,3 @@ rules:
   - IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
   - DOMAIN-SUFFIX,ccgslb.com,🎯 全球直连
   - DOMAIN-SUFFIX,ccgslb.net,🎯 全球直连
-  - DOMAIN-SUFFIX,chinanetcenter.com,🎯 全球直连
