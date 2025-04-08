@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 1|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
   - {name: 🇭🇰 1|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
   - {name: 🇨🇳 1|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
   - {name: 🇨🇳 1|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
@@ -11097,4 +11096,3 @@ rules:
   - DOMAIN-SUFFIX,v-56.com,🎯 全球直连
   - DOMAIN-SUFFIX,sogo.com,🎯 全球直连
   - DOMAIN-SUFFIX,sogou.com,🎯 全球直连
-  - DOMAIN-SUFFIX,sogoucdn.com,🎯 全球直连
