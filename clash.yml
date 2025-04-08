@@ -1,4 +1,3 @@
-  listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
   use-hosts: true
@@ -11102,4 +11101,3 @@ rules:
   - DOMAIN-SUFFIX,tencent-cloud.com,🎯 全球直连
   - DOMAIN-SUFFIX,tencent-cloud.net,🎯 全球直连
   - DOMAIN-SUFFIX,tenpay.com,🎯 全球直连
-  - DOMAIN-SUFFIX,wechat.com,🎯 全球直连
