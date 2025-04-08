@@ -1,4 +1,3 @@
-proxies:
   - {name: 0|🇭🇰4 |  2.1MB/s, server: 212.192.12.154, port: 23002, type: vmess, uuid: 361d4055-e74d-4b39-a6b4-ef2030b134ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
   - {name: 0|🌀4- |  5.5MB/s, server: 1744007541.tencentapp.cn, port: 8443, type: vmess, uuid: 381cb6d1-6ad4-4909-8494-b8d786cf78ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 1744007578.speed.adl.cccp.freefly.pp.ua, network: ws, ws-opts: {path: /, headers: {Host: 1744007578.speed.adl.cccp.freefly.pp.ua}}, udp: true}
   - {name: 0|🇺🇸25 |  5.3MB/s, server: 141.101.120.41, port: 2053, type: vmess, uuid: 381cb6d1-6ad4-4909-8494-b8d786cf78ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 1744007578.speed.zjgza.cccp.freefly.pp.ua, network: ws, ws-opts: {path: /, headers: {Host: 1744007578.speed.zjgza.cccp.freefly.pp.ua}}, udp: true}
@@ -11111,4 +11110,3 @@ rules:
   - DOMAIN-SUFFIX,gtimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,idqqimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,igamecj.com,🎯 全球直连
-  - DOMAIN-SUFFIX,myapp.com,🎯 全球直连
