@@ -1,4 +1,3 @@
-  - {name: "🇯🇵 0,12|🇯🇵 日本特殊|@ripaojiedian", server: 18.183.101.244, port: 80, type: ss, cipher: aes-256-cfb, password: thisgou, udp: true}
   - {name: 0|🇯🇵6 |  1.1MB/s, server: 175.215.154.208, port: 11184, type: vmess, uuid: 0ee75dd1-5e59-4615-a6a8-6fe7aa0b6f17, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oracle2ipv4.till.nyc.mn, network: ws, ws-opts: {path: /, headers: {Host: oracle2ipv4.till.nyc.mn}}, udp: true}
   - {name: 🇭🇰 1|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
   - {name: 🇭🇰 1|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 6f411881-272d-4bc3-b7dd-072263b05643, udp: true}
@@ -11103,4 +11102,3 @@ rules:
   - DOMAIN-SUFFIX,sogoucdn.com,🎯 全球直连
   - DOMAIN-SUFFIX,steamcontent.com,🎯 全球直连
   - DOMAIN-SUFFIX,steampowered.com,🎯 全球直连
-  - DOMAIN-SUFFIX,steamstatic.com,🎯 全球直连
