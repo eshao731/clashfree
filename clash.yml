@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -11260,4 +11259,3 @@ rules:
   - DOMAIN-SUFFIX,meituan.com,🎯 全球直连
   - DOMAIN-SUFFIX,meituan.net,🎯 全球直连
   - DOMAIN-SUFFIX,duokan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,mi.com,🎯 全球直连
