@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -11252,4 +11251,3 @@ rules:
   - DOMAIN-SUFFIX,meitustat.com,🎯 全球直连
   - DOMAIN-SUFFIX,meipai.com,🎯 全球直连
   - DOMAIN-SUFFIX,dianping.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dpfile.com,🎯 全球直连
