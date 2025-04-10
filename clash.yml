@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11256,4 +11255,3 @@ rules:
   - DOMAIN-SUFFIX,dianping.com,🎯 全球直连
   - DOMAIN-SUFFIX,dpfile.com,🎯 全球直连
   - DOMAIN-SUFFIX,meituan.com,🎯 全球直连
-  - DOMAIN-SUFFIX,meituan.net,🎯 全球直连
