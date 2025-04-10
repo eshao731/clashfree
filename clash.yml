@@ -1,4 +1,3 @@
-  - {name: 1|🇦🇺1 |  1.3MB/s, server: v35.heduian.link, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true}
   - {name: 1|🇩🇪9 |  3.8MB/s, server: 202.78.163.116, port: 443, type: trojan, password: !&lt;str&gt; 74260698218909400, sni: patient-crawdad.shiner427.skin, skip-cert-verify: false, udp: true}
   - {name: 1|🇮🇳3 |  1.8MB/s, server: 185.67.125.31, port: 443, type: trojan, password: !&lt;str&gt; 74260698218909400, sni: unified-lioness.shiner427.skin, skip-cert-verify: false, udp: true}
   - {name: 12|tg频道:@ripaojiedian, server: 52.33.3.233, port: 463, type: ss, cipher: aes-256-cfb, password: 463qwerty, udp: true}
@@ -10527,4 +10526,3 @@ rules:
   - DOMAIN-SUFFIX,outlook.com,🎯 全球直连
   - DOMAIN,outlook.office365.com,🎯 全球直连
   - DOMAIN,smtp.office365.com,🎯 全球直连
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,🎯 全球直连
