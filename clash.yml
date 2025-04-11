@@ -1,4 +1,3 @@
-  - {name: 0|🇺🇸20 |  1.3MB/s, server: 172.67.208.155, port: 443, type: trojan, password: 2fec7227-9abe-46f2-af18-78302b836c45, sni: 3r.2030.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /XjTi1NYwi9A2bckpqdDoAgkondVWl, headers: {Host: 3r.2030.pp.ua}}, udp: true}
   - {name: 0|🇭🇰8 |  1.2MB/s, server: 120.198.71.214, port: 46345, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 0|🇯🇵6 |  3.9MB/s, server: 69c584f2-suif40-tee612-2r82.cm5.p5pv.com, port: 17233, type: vmess, uuid: 03573f46-e944-11eb-a8bf-f23c91cfbbc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 0|🇯🇵8 |  5.9MB/s, server: fa7c2955-suif40-swjyj4-1mish.cm5.p5pv.com, port: 17233, type: vmess, uuid: 9eeeea88-f37b-11ed-bd3d-f23c9164ca5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
@@ -11256,4 +11255,3 @@ rules:
   - DOMAIN-SUFFIX,toutiao.com,🎯 全球直连
   - DOMAIN-SUFFIX,cctv.com,🎯 全球直连
   - DOMAIN-SUFFIX,cctvpic.com,🎯 全球直连
-  - DOMAIN-SUFFIX,livechina.com,🎯 全球直连
