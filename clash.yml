@@ -1,4 +1,3 @@
-external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
 hosts:
@@ -11060,4 +11059,3 @@ rules:
   - DOMAIN-SUFFIX,aicoin.com,🔰 节点选择
   - DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
   - DOMAIN-SUFFIX,bing.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
