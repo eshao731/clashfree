@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
@@ -11118,4 +11117,3 @@ rules:
   - DOMAIN,lookup-api.apple.com,🔰 节点选择
   - DOMAIN,apps.apple.com,🔰 节点选择
   - DOMAIN,books.apple.com,🔰 节点选择
-  - DOMAIN,itunes.apple.com,🔰 节点选择
