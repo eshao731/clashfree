@@ -1,4 +1,3 @@
-  - {name: 🇯🇵 0|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 781d9351-648c-4590-9058-9a29c873cb12, udp: true}
@@ -11104,4 +11103,3 @@ rules:
   - DOMAIN-SUFFIX,smartmailcloud.com,🔰 节点选择
   - DOMAIN-SUFFIX,weebly.com,🔰 节点选择
   - DOMAIN-SUFFIX,twitter.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
