@@ -1,4 +1,3 @@
-log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
@@ -11466,4 +11465,3 @@ rules:
   - DOMAIN-SUFFIX,tdesktop.com,🔰 节点选择
   - DOMAIN-SUFFIX,telegram.me,🔰 节点选择
   - DOMAIN-SUFFIX,telesco.pe,🔰 节点选择
-  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
