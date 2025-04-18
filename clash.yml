@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -11182,4 +11181,3 @@ rules:
   - DOMAIN-SUFFIX,firebaseio.com,🔰 节点选择
   - DOMAIN-SUFFIX,getmdl.io,🔰 节点选择
   - DOMAIN-SUFFIX,ggpht.com,🔰 节点选择
-  - DOMAIN-SUFFIX,gmail.com,🔰 节点选择
