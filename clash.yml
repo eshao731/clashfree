@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -11188,4 +11187,3 @@ rules:
   - DOMAIN-SUFFIX,gmail.com,🔰 节点选择
   - DOMAIN-SUFFIX,gmodules.com,🔰 节点选择
   - DOMAIN-SUFFIX,godoc.org,🔰 节点选择
-  - DOMAIN-SUFFIX,gstatic.com,🔰 节点选择
