@@ -1,4 +1,3 @@
-  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
@@ -11172,4 +11171,3 @@ rules:
   - DOMAIN-SUFFIX,chromium.org,🔰 节点选择
   - DOMAIN-SUFFIX,creativelab5.com,🔰 节点选择
   - DOMAIN-SUFFIX,debug.com,🔰 节点选择
-  - DOMAIN-SUFFIX,deepmind.com,🔰 节点选择
