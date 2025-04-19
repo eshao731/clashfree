@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -10997,4 +10996,3 @@ rules:
   - DOMAIN-SUFFIX,ycombinator.com,🔰 节点选择
   - DOMAIN-SUFFIX,yesasia.com,🔰 节点选择
   - DOMAIN-SUFFIX,yes-news.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yomiuri.co.jp,🔰 节点选择
