@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
@@ -11102,4 +11101,3 @@ rules:
   - DOMAIN-SUFFIX,gov,🔰 节点选择
   - DOMAIN-SUFFIX,mil,🔰 节点选择
   - DOMAIN-SUFFIX,abc.xyz,🔰 节点选择
-  - DOMAIN-SUFFIX,advertisercommunity.com,🔰 节点选择
