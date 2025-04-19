@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
@@ -11098,4 +11097,3 @@ rules:
   - DOMAIN,us.weibo.com,🔰 节点选择
   - DOMAIN-SUFFIX,edu,🔰 节点选择
   - DOMAIN-SUFFIX,gov,🔰 节点选择
-  - DOMAIN-SUFFIX,mil,🔰 节点选择
