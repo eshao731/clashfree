@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -11007,4 +11006,3 @@ rules:
   - DOMAIN-SUFFIX,zaobao.com,🔰 节点选择
   - DOMAIN-SUFFIX,zello.com,🔰 节点选择
   - DOMAIN-SUFFIX,zeronet.io,🔰 节点选择
-  - DOMAIN-SUFFIX,z-lib.org,🔰 节点选择
