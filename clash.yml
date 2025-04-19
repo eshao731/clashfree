@@ -1,4 +1,3 @@
-  fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 🇭🇰 0|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 17588e42-debc-4ee0-bef2-f6ffa05286bc, udp: true}
@@ -11112,4 +11111,3 @@ rules:
   - DOMAIN-SUFFIX,android.com,🔰 节点选择
   - DOMAIN-SUFFIX,androidify.com,🔰 节点选择
   - DOMAIN-SUFFIX,autodraw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,capitalg.com,🔰 节点选择
