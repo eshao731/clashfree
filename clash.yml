@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10995,4 +10994,3 @@ rules:
   - DOMAIN-SUFFIX,yandex.ru,🔰 节点选择
   - DOMAIN-SUFFIX,ycombinator.com,🔰 节点选择
   - DOMAIN-SUFFIX,yesasia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,yes-news.com,🔰 节点选择
