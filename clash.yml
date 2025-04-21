@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11178,4 +11177,3 @@ rules:
   - DOMAIN-SUFFIX,voanews.com,🔰 节点选择
   - DOMAIN-SUFFIX,voxer.com,🔰 节点选择
   - DOMAIN-SUFFIX,vzw.com,🔰 节点选择
-  - DOMAIN-SUFFIX,w3schools.com,🔰 节点选择
