@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 753f8d6f-6b5b-4177-bf62-ce6da7a45efa, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 753f8d6f-6b5b-4177-bf62-ce6da7a45efa, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 753f8d6f-6b5b-4177-bf62-ce6da7a45efa, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 753f8d6f-6b5b-4177-bf62-ce6da7a45efa, udp: true}
@@ -11056,4 +11055,3 @@ rules:
   - DOMAIN-SUFFIX,tutanota.com,🔰 节点选择
   - DOMAIN-SUFFIX,tvboxnow.com,🔰 节点选择
   - DOMAIN-SUFFIX,udn.com,🔰 节点选择
-  - DOMAIN-SUFFIX,unseen.is,🔰 节点选择
