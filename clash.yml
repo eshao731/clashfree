@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -10979,4 +10978,3 @@ rules:
   - DOMAIN-SUFFIX,textnow.me,🔰 节点选择
   - DOMAIN-SUFFIX,theguardian.com,🔰 节点选择
   - DOMAIN-SUFFIX,theinitium.com,🔰 节点选择
-  - DOMAIN-SUFFIX,themoviedb.org,🔰 节点选择
