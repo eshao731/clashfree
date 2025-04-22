@@ -1,4 +1,3 @@
-  fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 0|🇷🇺2 |  4.1MB/s, server: sla.cn.964e995b760.gogodns.xin, port: 46925, type: trojan, password: 8daad5d4-4ebd-41e1-b308-1371377a4f11, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
   - {name: 0|🇩🇪2 |  2.2MB/s, server: sharp-bear.dolphin109.quest, port: 443, type: trojan, password: !&lt;str&gt; 3828095943467868160, sni: sharp-bear.dolphin109.quest, skip-cert-verify: false, udp: true}
@@ -11171,4 +11170,3 @@ rules:
   - DOMAIN-SUFFIX,steamcommunity.com,🔰 节点选择
   - DOMAIN-SUFFIX,steemit.com,🔰 节点选择
   - DOMAIN-SUFFIX,steemitwallet.com,🔰 节点选择
-  - DOMAIN-SUFFIX,straitstimes.com,🔰 节点选择
