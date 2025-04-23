@@ -1,4 +1,3 @@
-  - {name: 0|🇬🇧1 |  1.0MB/s, server: 62.60.231.81, port: 39008, type: ss, cipher: chacha20-ietf-poly1305, password: W7fIo8Gp6TLb1YHZNH1fu5, udp: true}
   - {name: 0|🇭🇰1 |  1.7MB/s, server: sla.cn.964e995b760.gogodns.xin, port: 27103, type: trojan, password: 292f149a-33cb-4ecd-b432-5447764ea339, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
   - {name: 0|🇺🇸2 |  4.5MB/s, server: main-moose.dolphin109.quest, port: 443, type: trojan, password: !&lt;str&gt; 3828095943467868160, sni: main-moose.dolphin109.quest, skip-cert-verify: false, udp: true}
   - {name: 🇪🇸 0|🌀1-ES |  3.7MB/s, server: main-bee.dolphin109.quest, port: 443, type: trojan, password: !&lt;str&gt; 3828095943467868160, sni: main-bee.dolphin109.quest, skip-cert-verify: false, udp: true}
@@ -11161,4 +11160,3 @@ rules:
   - DOMAIN-SUFFIX,sina.com.hk,🔰 节点选择
   - DOMAIN-SUFFIX,slideshare.net,🔰 节点选择
   - DOMAIN-SUFFIX,softfamous.com,🔰 节点选择
-  - DOMAIN-SUFFIX,spiegel.de,🔰 节点选择
