@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 8e91a54e-d32d-4ec8-98ee-5192b15a020d, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 8e91a54e-d32d-4ec8-98ee-5192b15a020d, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 8e91a54e-d32d-4ec8-98ee-5192b15a020d, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 8e91a54e-d32d-4ec8-98ee-5192b15a020d, udp: true}
@@ -10963,4 +10962,3 @@ rules:
   - DOMAIN-SUFFIX,potato.im,🔰 节点选择
   - DOMAIN-SUFFIX,potatso.com,🔰 节点选择
   - DOMAIN-SUFFIX,prism-break.org,🔰 节点选择
-  - DOMAIN-SUFFIX,proxifier.com,🔰 节点选择
