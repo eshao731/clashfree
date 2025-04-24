@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10957,4 +10956,3 @@ rules:
   - DOMAIN-SUFFIX,pbxes.com,🔰 节点选择
   - DOMAIN-SUFFIX,pcdvd.com.tw,🔰 节点选择
   - DOMAIN-SUFFIX,pchome.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,pcloud.com,🔰 节点选择
