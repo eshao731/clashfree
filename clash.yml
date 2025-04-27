@@ -1,4 +1,3 @@
-proxies:
   - {name: 0|🇯🇵1 |  6.2MB/s, server: jp4.vip2.g2.moonbase.life, port: 35244, type: vmess, uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /home, headers: {Host: jp4.vip2.g2.moonbase.life}}, udp: true}
   - {name: 0|🇺🇸1 |  5.2MB/s, server: ray.skymirror.cc, port: 443, type: vmess, uuid: c99929e1-9c82-4a33-d11e-f177247b8f63, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: ray.skymirror.cc, network: ws, ws-opts: {path: /, headers: {Host: ray.skymirror.cc}}, udp: true}
   - {name: 0|🇸🇬1 |  4.2MB/s, server: gysz0000.dynu.net, port: 38340, type: trojan, password: VMhGp5wEIyCDf90T, sni: hk39.work.gd, skip-cert-verify: false, udp: true}
@@ -11333,4 +11332,3 @@ rules:
   - DOMAIN-SUFFIX,insecam.org,🔰 节点选择
   - DOMAIN-SUFFIX,ipfs.io,🔰 节点选择
   - DOMAIN-SUFFIX,issuu.com,🔰 节点选择
-  - DOMAIN-SUFFIX,istockphoto.com,🔰 节点选择
