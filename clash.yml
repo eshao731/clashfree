@@ -1,4 +1,3 @@
-  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
@@ -11353,4 +11352,3 @@ rules:
   - DOMAIN-SUFFIX,justpaste.it,🔰 节点选择
   - DOMAIN-SUFFIX,kadokawa.co.jp,🔰 节点选择
   - DOMAIN-SUFFIX,kakao.com,🔰 节点选择
-  - DOMAIN-SUFFIX,kakaocorp.com,🔰 节点选择
