@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11359,4 +11358,3 @@ rules:
   - DOMAIN-SUFFIX,kakaocorp.com,🔰 节点选择
   - DOMAIN-SUFFIX,kik.com,🔰 节点选择
   - DOMAIN-SUFFIX,kingkong.com.tw,🔰 节点选择
-  - DOMAIN-SUFFIX,knowyourmeme.com,🔰 节点选择
