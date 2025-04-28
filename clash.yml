@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -10933,4 +10932,3 @@ rules:
   - DOMAIN-SUFFIX,imgur.com,🔰 节点选择
   - DOMAIN-SUFFIX,independent.co.uk,🔰 节点选择
   - DOMAIN-SUFFIX,initiummall.com,🔰 节点选择
-  - DOMAIN-SUFFIX,inoreader.com,🔰 节点选择
