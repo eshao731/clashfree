@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -11189,4 +11188,3 @@ rules:
   - DOMAIN-SUFFIX,goodreads.com,🔰 节点选择
   - DOMAIN-SUFFIX,gov.tw,🔰 节点选择
   - DOMAIN-SUFFIX,gravatar.com,🔰 节点选择
-  - DOMAIN-SUFFIX,greatfire.org,🔰 节点选择
