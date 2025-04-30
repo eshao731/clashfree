@@ -1,4 +1,3 @@
-<pre style="word-wrap: break-word; white-space: pre-wrap;">mixed-port: 7890
 allow-lan: false
 mode: Rule
 log-level: info
@@ -133,16 +132,10 @@ proxies:
   - {name: 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian, server: 13.113.222.121, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇸🇬 12|🇸🇬 狮城特殊|@ripaojiedian, server: 13.212.82.255, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇻🇳 12|🇻🇳 越南|@ripaojiedian, server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "13|tg频道:@ripaojiedian #1", server: 13.230.239.48, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
   - {name: 🇭🇰 13|香港|@ripaojiedian, server: vt-bana2-cn-11.ghpgwqswodgzv.com, port: 40021, type: trojan, password: a38c9e28-9960-4e31-9f18-ed2495a756aa, sni: vt-bana2-cn-11.ghpgwqswodgzv.com, skip-cert-verify: false, network: ws, ws-opts: {path: /dl_media, headers: {Host: vt-bana2-cn-11.ghpgwqswodgzv.com}}, udp: true}
   - {name: 🇭🇰 13|香港5|@ripaojiedian, server: 183.236.51.38, port: 41291, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 13|香港6|@ripaojiedian, server: 120.198.71.214, port: 42375, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 13|日本3|@ripaojiedian, server: jsyd.piaomiaoxu.net, port: 44721, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206ODg3MzA2ZjMtYWY4Yy00NzJlLWI2ZTAtZTdkY2Y5NzBhNGYw, udp: true}
   - {name: 🇺🇸 13|美国|@ripaojiedian, server: 120.198.71.219, port: 44015, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 13|日本特殊|@ripaojiedian, server: 43.201.51.140, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇰🇷 13|韩国特殊|@ripaojiedian, server: 13.113.222.121, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 13.212.82.255, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇻🇳 13|越南|@ripaojiedian, server: 103.186.154.24, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW, udp: true}
   - {name: 14|CN_speednode_0005, server: sla.cn.964e995b760.gogodns.xin, port: 27103, type: trojan, password: 292f149a-33cb-4ecd-b432-5447764ea339, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
   - {name: 14|RU_speednode_0029, server: 46.254.93.134, port: 2087, type: trojan, password: Aimer, sni: epcca.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: epcca.ambercc.filegear-sg.me}}, udp: true}
   - {name: 14|US_speednode_0035, server: 104.129.167.255, port: 8443, type: trojan, password: Aimer, sni: epcca.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: epcca.ambercc.filegear-sg.me}}, udp: true}
@@ -10841,4 +10834,3 @@ rules:
   - DOMAIN-SUFFIX,edgecastcdn.net,🔰 节点选择
   - DOMAIN-SUFFIX,edx-cdn.org,🔰 节点选择
   - DOMAIN-SUFFIX,elpais.com,🔰 节点选择
-  - DOMAIN-SUFFIX,enanyang.my,🔰 节点选择
