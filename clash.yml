@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -10823,4 +10822,3 @@ rules:
   - DOMAIN-SUFFIX,duyaoss.com,🔰 节点选择
   - DOMAIN-SUFFIX,dw.com,🔰 节点选择
   - DOMAIN-SUFFIX,dynu.com,🔰 节点选择
-  - DOMAIN-SUFFIX,earthcam.com,🔰 节点选择
