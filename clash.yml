@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
@@ -10772,4 +10771,3 @@ rules:
   - DOMAIN-SUFFIX,esoir.be,🔰 节点选择
   - DOMAIN-SUFFIX,etherscan.io,🔰 节点选择
   - DOMAIN-SUFFIX,euronews.com,🔰 节点选择
-  - DOMAIN-SUFFIX,evozi.com,🔰 节点选择
