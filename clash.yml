@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 02 | 1x TW, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 03 | 1x TW, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: bb0a7803-b5ed-4d1e-abcd-326a2e093537, udp: true}
@@ -10776,4 +10775,3 @@ rules:
   - DOMAIN-SUFFIX,euronews.com,🔰 节点选择
   - DOMAIN-SUFFIX,evozi.com,🔰 节点选择
   - DOMAIN-SUFFIX,exblog.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,feeder.co,🔰 节点选择
