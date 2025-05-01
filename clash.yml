@@ -1,4 +1,3 @@
-  - {name: 🇯🇵 0|🇯🇵 日本 01 | 1x JP, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: bd44ceca-4f19-40da-bc8b-b633e461319e, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 02 | 1x JP, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: bd44ceca-4f19-40da-bc8b-b633e461319e, udp: true}
   - {name: 🇯🇵 0|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: bd44ceca-4f19-40da-bc8b-b633e461319e, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: bd44ceca-4f19-40da-bc8b-b633e461319e, udp: true}
@@ -11664,4 +11663,3 @@ rules:
   - DOMAIN-SUFFIX,cts.com.tw,🔰 节点选择
   - DOMAIN-SUFFIX,cw.com.tw,🔰 节点选择
   - DOMAIN-SUFFIX,cyberctm.com,🔰 节点选择
-  - DOMAIN-SUFFIX,cyclingnews.com,🔰 节点选择
