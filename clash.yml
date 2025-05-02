@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10936,4 +10935,3 @@ rules:
   - DOMAIN-SUFFIX,change.org,🔰 节点选择
   - DOMAIN-SUFFIX,channelnewsasia.com,🔰 节点选择
   - DOMAIN-SUFFIX,ck101.com,🔰 节点选择
-  - DOMAIN-SUFFIX,clarionproject.org,🔰 节点选择
