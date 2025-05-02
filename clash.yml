@@ -1,4 +1,3 @@
-  mtalk.google.com: 108.177.125.188
 dns:
   enable: true
   listen: 127.0.0.1:5335
@@ -10934,4 +10933,3 @@ rules:
   - DOMAIN-SUFFIX,cdw.com,🔰 节点选择
   - DOMAIN-SUFFIX,change.org,🔰 节点选择
   - DOMAIN-SUFFIX,channelnewsasia.com,🔰 节点选择
-  - DOMAIN-SUFFIX,ck101.com,🔰 节点选择
