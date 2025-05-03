@@ -1,4 +1,3 @@
-proxies:
   - {name: 🇭🇰 0|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 1d8e5975-0e6c-45fd-8f0e-1e485ac7e5b8, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 1d8e5975-0e6c-45fd-8f0e-1e485ac7e5b8, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 1d8e5975-0e6c-45fd-8f0e-1e485ac7e5b8, udp: true}
@@ -11359,4 +11358,3 @@ rules:
   - DOMAIN-SUFFIX,ao3.org,🔰 节点选择
   - DOMAIN-SUFFIX,apigee.com,🔰 节点选择
   - DOMAIN-SUFFIX,apkcombo.com,🔰 节点选择
-  - DOMAIN-SUFFIX,apk-dl.com,🔰 节点选择
