@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -11216,4 +11215,3 @@ rules:
   - DOMAIN-SUFFIX,artstation.com,🔰 节点选择
   - DOMAIN-SUFFIX,arukas.io,🔰 节点选择
   - DOMAIN-SUFFIX,ask.com,🔰 节点选择
-  - DOMAIN-SUFFIX,avg.com,🔰 节点选择
