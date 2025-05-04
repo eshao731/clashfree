@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -11211,4 +11210,3 @@ rules:
   - DOMAIN-SUFFIX,twitter.com,🔰 节点选择
   - DOMAIN-SUFFIX,vine.co,🔰 节点选择
   - DOMAIN-SUFFIX,wikileaks.org,🔰 节点选择
-  - DOMAIN-SUFFIX,wikimapia.org,🔰 节点选择
