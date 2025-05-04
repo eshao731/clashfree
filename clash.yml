@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11199,4 +11198,3 @@ rules:
   - DOMAIN-SUFFIX,pscp.tv,🔰 节点选择
   - DOMAIN-SUFFIX,periscope.tv,🔰 节点选择
   - DOMAIN-SUFFIX,t.co,🔰 节点选择
-  - DOMAIN-SUFFIX,twimg.co,🔰 节点选择
