@@ -1,4 +1,3 @@
-  fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
   - {name: 🇭🇰 0|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 3dbfd612-9a2e-4ddb-b15d-a69988490f0e, udp: true}
@@ -136,16 +135,11 @@ proxies:
   - {name: 🇯🇵 12|🇯🇵 日本特殊|@ripaojiedian, server: 52.199.191.145, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇰🇷 12|🇰🇷 韩国特殊|@ripaojiedian, server: 13.231.142.122, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇻🇳 12|🇻🇳 越南|@ripaojiedian, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: "13|tg频道:@ripaojiedian #1", server: 43.206.214.213, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
   - {name: 🇭🇰 13|香港|@ripaojiedian, server: vt-bana2-cn-11.ghpgwqswodgzv.com, port: 40021, type: trojan, password: a38c9e28-9960-4e31-9f18-ed2495a756aa, sni: vt-bana2-cn-11.ghpgwqswodgzv.com, skip-cert-verify: false, network: ws, ws-opts: {path: /dl_media, headers: {Host: vt-bana2-cn-11.ghpgwqswodgzv.com}}, udp: true}
   - {name: 🇭🇰 13|中国 - 香港 - Cnservers LLC - 29, server: 120.198.71.216, port: 35921, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 13|香港5|@ripaojiedian, server: 120.232.153.40, port: 59082, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 13|香港6|@ripaojiedian, server: 120.232.153.40, port: 36609, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇨🇳 13|台湾|@ripaojiedian, server: dxv4.pai50288.uk, port: 14100, type: vmess, uuid: f6866b0b-f946-4a03-8df0-c7e0016b55ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 13|狮城特殊|@ripaojiedian, server: 44.243.100.122, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇯🇵 13|日本特殊|@ripaojiedian, server: 52.199.191.145, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇰🇷 13|韩国特殊|@ripaojiedian, server: 13.231.142.122, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
-  - {name: 🇻🇳 13|越南|@ripaojiedian, server: 103.186.155.19, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW, udp: true}
   - {name: 14|CN_speednode_0004, server: 183.2.150.64, port: 22271, type: trojan, password: 5847f3aa-5384-4390-aeea-2c9c9e004676, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
   - {name: 14|CN_speednode_0010, server: 183.2.150.98, port: 33506, type: trojan, password: cc1f1b4c-fe4d-4517-9db7-66c0ff77fb0d, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
   - {name: 14|CN_speednode_0013, server: 183.2.150.98, port: 34014, type: trojan, password: 8791bb67-2de1-4e34-a44a-a0c13be31f92, sni: q08m.vgraxiw73s.hasyaf.cn, skip-cert-verify: false, udp: true}
@@ -10964,4 +10958,3 @@ rules:
   - DOMAIN-SUFFIX,nytchina.com,🔰 节点选择
   - DOMAIN-SUFFIX,nytcn.me,🔰 节点选择
   - DOMAIN-SUFFIX,nytco.com,🔰 节点选择
-  - DOMAIN-SUFFIX,nytimes.com,🔰 节点选择
