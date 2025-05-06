@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -11127,4 +11126,3 @@ rules:
   - DOMAIN-SUFFIX,pinterest.de,🔰 节点选择
   - DOMAIN-SUFFIX,pinterest.fr,🔰 节点选择
   - DOMAIN-SUFFIX,pinterest.jp,🔰 节点选择
-  - DOMAIN-SUFFIX,pinterest.se,🔰 节点选择
