@@ -1,4 +1,3 @@
-external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
 hosts:
@@ -11098,4 +11097,3 @@ rules:
   - DOMAIN-SUFFIX,line.me,🔰 节点选择
   - DOMAIN-SUFFIX,line-apps.com,🔰 节点选择
   - DOMAIN-SUFFIX,line-scdn.net,🔰 节点选择
-  - DOMAIN-SUFFIX,naver.jp,🔰 节点选择
