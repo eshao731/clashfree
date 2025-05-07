@@ -1,4 +1,3 @@
-  - {name: 🇯🇵 0|🇯🇵 日本 03 | 1x JP, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 3dbfd612-9a2e-4ddb-b15d-a69988490f0e, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 01 | 1x SG, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 3dbfd612-9a2e-4ddb-b15d-a69988490f0e, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 02 | 1x SG, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 3dbfd612-9a2e-4ddb-b15d-a69988490f0e, udp: true}
   - {name: 🇸🇬 0|🇸🇬 新加坡 03 | 1x SG, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 3dbfd612-9a2e-4ddb-b15d-a69988490f0e, udp: true}
@@ -10937,4 +10936,3 @@ rules:
   - IP-CIDR,125.209.208.0/20,🔰 节点选择,no-resolve
   - IP-CIDR,147.92.128.0/17,🔰 节点选择,no-resolve
   - IP-CIDR,203.104.144.0/21,🔰 节点选择,no-resolve
-  - DOMAIN-SUFFIX,aka.ms,🔰 节点选择
