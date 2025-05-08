@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10399,4 +10398,3 @@ rules:
   - DOMAIN-SUFFIX,facebook.com,🔰 节点选择
   - DOMAIN-SUFFIX,facebook.net,🔰 节点选择
   - DOMAIN-SUFFIX,fb.com,🔰 节点选择
-  - DOMAIN-SUFFIX,fb.me,🔰 节点选择
