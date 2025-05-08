@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10395,4 +10394,3 @@ rules:
   - DOMAIN-SUFFIX,dropboxusercontent.com,🔰 节点选择
   - DOMAIN-SUFFIX,cdninstagram.com,🔰 节点选择
   - DOMAIN-SUFFIX,facebook.com,🔰 节点选择
-  - DOMAIN-SUFFIX,facebook.net,🔰 节点选择
