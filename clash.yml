@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
@@ -10596,4 +10595,3 @@ rules:
   - DOMAIN-SUFFIX,ftx.com,🔰 节点选择
   - DOMAIN-SUFFIX,gate.io,🔰 节点选择
   - DOMAIN-SUFFIX,gemini.com,🔰 节点选择
-  - DOMAIN-SUFFIX,huobi.com,🔰 节点选择
