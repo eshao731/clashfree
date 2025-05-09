@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇭🇰 0|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 2045ad00-5f17-431a-9ccc-1c6ce2fbaeb8, udp: true}
@@ -10600,4 +10599,3 @@ rules:
   - DOMAIN-SUFFIX,gemini.com,🔰 节点选择
   - DOMAIN-SUFFIX,huobi.com,🔰 节点选择
   - DOMAIN-SUFFIX,korbit.co.kr,🔰 节点选择
-  - DOMAIN-SUFFIX,kraken.com,🔰 节点选择
