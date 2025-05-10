@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10644,4 +10643,3 @@ rules:
   - DOMAIN-SUFFIX,binance.us,🔰 节点选择
   - DOMAIN-SUFFIX,bitcointalk.org,🔰 节点选择
   - DOMAIN-SUFFIX,bitfinex.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bithumb.com,🔰 节点选择
