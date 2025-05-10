@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
@@ -10535,4 +10534,3 @@ rules:
   - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2a0a:f280::/32,📲 电报信息,no-resolve
-  - DOMAIN-SUFFIX,amazon.co.jp,🔰 节点选择
