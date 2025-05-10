@@ -1,4 +1,3 @@
-  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
   - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: c93236ba-acc4-4ca5-8ea4-c65c09137f41, udp: true}
@@ -10531,4 +10530,3 @@ rules:
   - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
   - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
-  - IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
