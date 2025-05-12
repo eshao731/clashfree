@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -10874,4 +10873,3 @@ rules:
   - DOMAIN,apiintl.biliapi.net,🌏 国内媒体
   - DOMAIN,intel-cache.m.iqiyi.com,🌏 国内媒体
   - DOMAIN,intel-cache.video.iqiyi.com,🌏 国内媒体
-  - DOMAIN,intl-rcd.iqiyi.com,🌏 国内媒体
