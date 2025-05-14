@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -10911,4 +10910,3 @@ rules:
   - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
   - DOMAIN-SUFFIX,nowe.com,🌍 国外媒体
   - DOMAIN-SUFFIX,nowestatic.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,cbsi.com,🌍 国外媒体
