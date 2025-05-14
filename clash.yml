@@ -1,4 +1,3 @@
-  - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 03 | 1x JP, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇸🇬 0|🇸🇬新加坡 01 | 1x SG, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
@@ -10566,4 +10565,3 @@ rules:
   - DOMAIN,cbsplaylistserver.aws.syncbak.com,🌍 国外媒体
   - DOMAIN,cbsservice.aws.syncbak.com,🌍 国外媒体
   - DOMAIN,link.theplatform.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
