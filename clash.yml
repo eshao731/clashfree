@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: f2e3ed9f-ba50-4596-af64-b1544c3d1f82, udp: true}
@@ -10572,4 +10571,3 @@ rules:
   - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
   - DOMAIN-SUFFIX,peacocktv.com,🌍 国外媒体
   - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
