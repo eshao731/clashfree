@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -11903,4 +11902,3 @@ rules:
   - DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
