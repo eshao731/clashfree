@@ -1,4 +1,3 @@
-  listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
   use-hosts: true
@@ -10877,4 +10876,3 @@ rules:
   - DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
   - DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
   - DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
