@@ -1,4 +1,3 @@
-log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
@@ -11899,4 +11898,3 @@ rules:
   - DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
   - DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-  - DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
