@@ -1,4 +1,3 @@
-  - {name: 🇨🇳 0|🇹🇼台湾 02 | 1x TW, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 8579afac-fad3-43ee-89d1-f8ca613f6fdc, udp: true}
   - {name: 🇨🇳 0|🇹🇼台湾 03 | 1x TW, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 8579afac-fad3-43ee-89d1-f8ca613f6fdc, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 01 | 1x JP, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 8579afac-fad3-43ee-89d1-f8ca613f6fdc, udp: true}
   - {name: 🇯🇵 0|🇯🇵日本 02 | 1x JP, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 8579afac-fad3-43ee-89d1-f8ca613f6fdc, udp: true}
@@ -10696,4 +10695,3 @@ rules:
   - DOMAIN-SUFFIX,linetv.tw,🌍 国外媒体
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌍 国外媒体
   - DOMAIN-SUFFIX,litv.tv,🌍 国外媒体
-  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌍 国外媒体
