@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10723,4 +10722,3 @@ rules:
   - DOMAIN,intl-rcd.iqiyi.com,🌍 国外媒体
   - DOMAIN,intl-subscription.iqiyi.com,🌍 国外媒体
   - IP-CIDR,23.53.32.88/32,🌍 国外媒体,no-resolve
-  - IP-CIDR,23.211.15.99/32,🌍 国外媒体,no-resolve
