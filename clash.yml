@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -10719,4 +10718,3 @@ rules:
   - DOMAIN-SUFFIX,iq.com,🌍 国外媒体
   - DOMAIN,intl.iqiyi.com,🌍 国外媒体
   - DOMAIN,intl-rcd.iqiyi.com,🌍 国外媒体
-  - DOMAIN,intl-subscription.iqiyi.com,🌍 国外媒体
