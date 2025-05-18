@@ -1,4 +1,3 @@
-proxies:
   - {name: 2|🇺🇸4 |  3.4MB/s|46%|Openai|Gemi..., server: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, port: 15229, type: trojan, password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d, sni: 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net, skip-cert-verify: false, udp: true}
   - {name: "🇭🇰 2,13,14|香港5|@ripaojiedian", server: dozo01.flztjc.top, port: 8313, type: trojan, password: 2c605663-b89a-5734-a9d6-97d4743d72cf, sni: hk-13-568.flztjc.net, skip-cert-verify: false, udp: true}
   - {name: 2|🇩🇪1 |  3.5MB/s|30%|Youtube|Ope..., server: 3.120.242.252, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true}
@@ -10049,4 +10048,3 @@ rules:
   - DOMAIN,players.brightcove.net,🌍 国外媒体
   - DOMAIN,s3-ap-southeast-1.amazonaws.com,🌍 国外媒体
   - DOMAIN-SUFFIX,5itv.tv,🌍 国外媒体
-  - DOMAIN-SUFFIX,ocnttv.com,🌍 国外媒体
