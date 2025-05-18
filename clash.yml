@@ -1,4 +1,3 @@
-  mtalk.google.com: 108.177.125.188
 dns:
   enable: true
   listen: 127.0.0.1:5335
@@ -10717,4 +10716,3 @@ rules:
   - DOMAIN,itvpnpmobile-a.akamaihd.net,🌍 国外媒体
   - DOMAIN-SUFFIX,iq.com,🌍 国外媒体
   - DOMAIN,intl.iqiyi.com,🌍 国外媒体
-  - DOMAIN,intl-rcd.iqiyi.com,🌍 国外媒体
