@@ -1,4 +1,3 @@
-  - {name: 2|🇭🇰3 |  2.3MB/s|0%|Disney, server: 183.232.235.2, port: 8313, type: trojan, password: 2c605663-b89a-5734-a9d6-97d4743d72cf, skip-cert-verify: false, udp: true}
   - {name: 2|🇫🇷4 |  2.7MB/s|100%|Openai, server: 185.174.138.209, port: 2095, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/az05.beyondy.cfd/link?/TM", headers: {Host: yellow-paper-029c.yvonna.workers.dev}}, udp: true}
   - {name: 2|🇫🇮1 |  2.8MB/s|20%|Netflix|Dis..., server: 38.207.133.204, port: 10002, type: trojan, password: trojan, sni: qingming-b08.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: qingming-b08.pages.dev}}, udp: true}
   - {name: 2|🇩🇪6 |  2.7MB/s|43%|Youtube|Ope..., server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 8f922e2e-18f3-4bd9-a097-09c2d7c139be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: MAxNEtViP-gEr-vp1.MaXnETcLOuDSErVice.com, network: ws, ws-opts: {path: /linkws, headers: {Host: MAxNEtViP-gEr-vp1.MaXnETcLOuDSErVice.com}}, udp: true}
@@ -10041,4 +10040,3 @@ rules:
   - DOMAIN,hboasialive.akamaized.net,🌍 国外媒体
   - DOMAIN,hbogoprod-vod.akamaized.net,🌍 国外媒体
   - DOMAIN,hbolb.onwardsmg.com,🌍 国外媒体
-  - DOMAIN,hbounify-prod.evergent.com,🌍 国外媒体
