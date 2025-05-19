@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10221,4 +10220,3 @@ rules:
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🌍 国外媒体
   - DOMAIN,dai3fd1oh325y.cloudfront.net,🌍 国外媒体
   - DOMAIN,hboasia1-i.akamaihd.net,🌍 国外媒体
-  - DOMAIN,hboasia2-i.akamaihd.net,🌍 国外媒体
