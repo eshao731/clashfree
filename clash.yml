@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -10366,4 +10365,3 @@ rules:
   - DOMAIN-SUFFIX,bamgrid.com,🌍 国外媒体
   - DOMAIN-SUFFIX,disneyplus.com,🌍 国外媒体
   - DOMAIN-SUFFIX,disney-plus.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,disneystreaming.com,🌍 国外媒体
