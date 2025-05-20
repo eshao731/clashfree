@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -10358,4 +10357,3 @@ rules:
   - DOMAIN-SUFFIX,discoveryplus.co.uk,🌍 国外媒体
   - DOMAIN-SUFFIX,discoveryplus.com,🌍 国外媒体
   - DOMAIN-SUFFIX,discoveryplus.in,🌍 国外媒体
-  - DOMAIN-SUFFIX,dnitv.com,🌍 国外媒体
