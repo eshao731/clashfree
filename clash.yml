@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -10134,4 +10133,3 @@ rules:
   - DOMAIN,d27xxe7juh1us6.cloudfront.net,🌍 国外媒体
   - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
   - DOMAIN,linear.tv.apple.com,🌍 国外媒体
-  - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
