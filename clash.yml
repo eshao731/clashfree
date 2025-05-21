@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 0|🇭🇰 香港 01 | 1x HK, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: c742eeab-d955-4c29-8b12-2c13bb4b820a, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港 02 | 1x HK, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: c742eeab-d955-4c29-8b12-2c13bb4b820a, udp: true}
   - {name: 🇭🇰 0|🇭🇰 香港住宅IP 03 | 1x HK, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: c742eeab-d955-4c29-8b12-2c13bb4b820a, udp: true}
   - {name: 🇨🇳 0|🇹🇼 台湾 01 | 1x TW, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: c742eeab-d955-4c29-8b12-2c13bb4b820a, udp: true}
@@ -10326,4 +10325,3 @@ rules:
   - DOMAIN-SUFFIX,bbci.co.uk,🌍 国外媒体
   - DOMAIN-KEYWORD,bbcfmt,🌍 国外媒体
   - DOMAIN-KEYWORD,uk-live,🌍 国外媒体
-  - DOMAIN-SUFFIX,biliintl.com,🌍 国外媒体
