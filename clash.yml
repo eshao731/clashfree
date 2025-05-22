@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -10318,4 +10317,3 @@ rules:
   - DOMAIN-SUFFIX,c4assets.com,🌍 国外媒体
   - DOMAIN-SUFFIX,channel4.com,🌍 国外媒体
   - DOMAIN-SUFFIX,aiv-cdn.net,🌍 国外媒体
-  - DOMAIN-SUFFIX,aiv-delivery.net,🌍 国外媒体
