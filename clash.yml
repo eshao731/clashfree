@@ -1,4 +1,3 @@
-  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
@@ -10302,4 +10301,3 @@ rules:
   - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
   - DOMAIN-SUFFIX,himalaya.com,🌍 国外媒体
   - DOMAIN-SUFFIX,overcast.fm,🌍 国外媒体
-  - DOMAIN-SUFFIX,abema.io,🌍 国外媒体
