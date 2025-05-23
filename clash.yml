@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -10224,4 +10223,3 @@ rules:
   - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
   - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
   - DOMAIN-SUFFIX,kkbox.com.tw,🌍 国外媒体
-  - DOMAIN-SUFFIX,kfs.io,🌍 国外媒体
