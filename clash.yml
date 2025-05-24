@@ -1,4 +1,3 @@
-external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
 hosts:
@@ -10141,4 +10140,3 @@ rules:
   - DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
   - DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
-  - IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
