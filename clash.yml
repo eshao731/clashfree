@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 2|🇭🇰香港 01 | 1x HK, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: f31c8d55-fa75-4ca7-93d4-392cae1923f3, udp: true}
   - {name: 🇭🇰 2|🇭🇰香港 02 | 1x HK, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: f31c8d55-fa75-4ca7-93d4-392cae1923f3, udp: true}
   - {name: 🇭🇰 2|🇭🇰香港家宽 03 | 1x HK, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: f31c8d55-fa75-4ca7-93d4-392cae1923f3, udp: true}
   - {name: 🇨🇳 2|🇹🇼台湾 01 | 1x TW, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: f31c8d55-fa75-4ca7-93d4-392cae1923f3, udp: true}
@@ -10028,4 +10027,3 @@ rules:
   - DOMAIN-SUFFIX,iconworkshop.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,idmchina.net,🛑 全球拦截
   - DOMAIN-SUFFIX,imazingchina.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,imindmap.cc,🛑 全球拦截
