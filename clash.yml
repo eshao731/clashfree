@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -9467,4 +9466,3 @@ rules:
   - DOMAIN-SUFFIX,ediuschina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,flstudiochina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,folxchina.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,formysql.com,🛑 全球拦截
