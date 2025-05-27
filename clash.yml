@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -9465,4 +9464,3 @@ rules:
   - DOMAIN-SUFFIX,easyrecoverychina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ediuschina.com,🛑 全球拦截
   - DOMAIN-SUFFIX,flstudiochina.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,folxchina.cn,🛑 全球拦截
