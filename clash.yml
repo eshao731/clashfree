@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 13|🇭🇰 香港8|@ripaojiedian, server: 43.247.134.85, port: 47010, type: vmess, uuid: cbffb825-93d5-4a19-aed0-0936a48c84d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 13|🇭🇰 香港9|@ripaojiedian, server: 183.236.51.38, port: 39919, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 13|🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇯🇵 13|🇯🇵 日本2|@ripaojiedian, server: 43.226.17.8, port: 21755, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0, udp: true}
@@ -9424,4 +9423,3 @@ rules:
   - IP-CIDR,118.144.88.216/32,🛑 全球拦截,no-resolve
   - IP-CIDR,120.76.189.132/32,🛑 全球拦截,no-resolve
   - IP-CIDR,124.14.21.147/32,🛑 全球拦截,no-resolve
-  - IP-CIDR,124.14.21.151/32,🛑 全球拦截,no-resolve
