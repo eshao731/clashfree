@@ -1,4 +1,3 @@
-  - {name: 🇰🇷 13|🇰🇷 韩国|@ripaojiedian, server: 125.141.26.12, port: 4857, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
   - {name: 🇰🇷 13|🇰🇷 韩国2|@ripaojiedian, server: 3.38.139.172, port: 9898, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, udp: true}
   - {name: "🇸🇬 13,14|新加坡|@ripaojiedian", server: v12.heduian.link, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: ocbc.com}}, udp: true}
   - {name: 🇺🇸 13|🇺🇸 美国2|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
@@ -9418,4 +9417,3 @@ rules:
   - DOMAIN-SUFFIX,tuipenguin.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tuitiger.com,🛑 全球拦截
   - DOMAIN-SUFFIX,urlaw.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,urlet.cn,🛑 全球拦截
