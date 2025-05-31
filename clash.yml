@@ -1,4 +1,3 @@
-  - {name: 15|CN_speednode_0016, server: 36.156.102.123, port: 50723, type: trojan, password: RlzoEILU, sni: 36.156.102.123, skip-cert-verify: false, udp: true}
   - {name: 15|CN_speednode_0017, server: 36.151.251.62, port: 3330, type: trojan, password: RlzoEILU, sni: cdn.egvra.cn, skip-cert-verify: false, udp: true}
   - {name: 15|CN_speednode_0021, server: 36.151.251.62, port: 13542, type: trojan, password: RlzoEILU, sni: cdn.egvra.cn, skip-cert-verify: false, udp: true}
   - {name: 15|CN_speednode_0026, server: 7d09e919-swq1s0-tcvn0z-1tlyg.cu.plebai.net, port: 15229, type: trojan, password: be8ba532-0dcf-11f0-9a65-f23c9164ca5d, sni: 7d09e919-swq1s0-tcvn0z-1tlyg.cu.plebai.net, skip-cert-verify: false, udp: true}
@@ -9400,4 +9399,3 @@ rules:
   - DOMAIN-SUFFIX,sifuka.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,smgru.net,🛑 全球拦截
   - DOMAIN-SUFFIX,taoggou.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,tcxshop.com,🛑 全球拦截
