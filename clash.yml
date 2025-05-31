@@ -1,4 +1,3 @@
-  listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
   use-hosts: true
@@ -9450,4 +9449,3 @@ rules:
   - DOMAIN-SUFFIX,qutaobi.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ry51w.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,sg536.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,sifubo.cn,🛑 全球拦截
