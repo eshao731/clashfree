@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 12|🇭🇰 香港9|@ripaojiedian, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 12|🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇯🇵 12|🇯🇵 日本2|@ripaojiedian, server: 43.226.17.17, port: 50494, type: ss, cipher: chacha20-ietf-poly1305, password: 2e96aa2f3054, udp: true}
   - {name: 🇯🇵 12|🇯🇵 日本3|@ripaojiedian, server: f67f4b28-suvds0-t1k53r-1jm8i.cm5.p5pv.com, port: 17233, type: vmess, uuid: a6ddfc37-05eb-11ed-af40-f23c91cfbbc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
@@ -9481,4 +9480,3 @@ rules:
   - DOMAIN-SUFFIX,haoshengtoys.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hbssjd.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,hyunke.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,ichaosheng.com,🛑 全球拦截
