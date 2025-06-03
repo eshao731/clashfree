@@ -1,4 +1,3 @@
-log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
@@ -9323,4 +9322,3 @@ rules:
   - DOMAIN-SUFFIX,58mingri.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,58mingtian.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,5vl58stm.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,6d63d3.com,🛑 全球拦截
