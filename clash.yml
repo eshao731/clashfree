@@ -1,4 +1,3 @@
-  - {name: 🇸🇬 敏感时期，更新暂停, server: web.51.la, port: 443, type: vmess, uuid: c6e84072-2e69-4928-90af-436b3fcd0663, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: web.51.la, udp: true}
   - {name: 如有需要，自行搭建, server: web.51.la, port: 443, type: vmess, uuid: e0c6b3b7-9f5b-4bd6-9abf-260663aa4f1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: web.51.la, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
@@ -8853,4 +8852,3 @@ rules:
   - IP-CIDR,118.144.88.216/32,🛑 全球拦截,no-resolve
   - IP-CIDR,120.76.189.132/32,🛑 全球拦截,no-resolve
   - IP-CIDR,124.14.21.147/32,🛑 全球拦截,no-resolve
-  - IP-CIDR,124.14.21.151/32,🛑 全球拦截,no-resolve
