@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -9327,4 +9326,3 @@ rules:
   - IP-CIDR,222.186.61.91/32,🛑 全球拦截,no-resolve
   - IP-CIDR,222.186.61.95/32,🛑 全球拦截,no-resolve
   - IP-CIDR,222.186.61.96/32,🛑 全球拦截,no-resolve
-  - IP-CIDR,222.186.61.97/32,🛑 全球拦截,no-resolve
