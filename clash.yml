@@ -1,4 +1,3 @@
-  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
@@ -9222,4 +9221,3 @@ rules:
   - IP-CIDR,221.204.213.222/32,🛑 全球拦截,no-resolve
   - IP-CIDR,221.228.214.101/32,🛑 全球拦截,no-resolve
   - IP-CIDR,222.187.226.96/32,🛑 全球拦截,no-resolve
-  - IP-CIDR,223.6.255.99/32,🛑 全球拦截,no-resolve
