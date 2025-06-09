@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -9173,4 +9172,3 @@ rules:
   - IP-CIDR,124.160.194.11/32,🛑 全球拦截,no-resolve
   - IP-CIDR,125.46.61.28/32,🛑 全球拦截,no-resolve
   - IP-CIDR,125.89.69.5/32,🛑 全球拦截,no-resolve
-  - IP-CIDR,139.159.32.82/32,🛑 全球拦截,no-resolve
