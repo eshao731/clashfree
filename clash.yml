@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -9651,4 +9650,3 @@ rules:
   - DOMAIN-SUFFIX,toots-a.akamaihd.net,🛑 全球拦截
   - DOMAIN-SUFFIX,optimus-ads.amap.com.w.alikunlun.com,🛑 全球拦截
   - DOMAIN-SUFFIX,yt-adp.ws.126.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,alog.umeng.co,🛑 全球拦截
