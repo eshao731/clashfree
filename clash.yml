@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -9566,4 +9565,3 @@ rules:
   - DOMAIN-SUFFIX,mindmanager.cc,🛑 全球拦截
   - DOMAIN-SUFFIX,mindmapper.cc,🛑 全球拦截
   - DOMAIN-SUFFIX,mycleanmymac.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,nicelabel.cc,🛑 全球拦截
