@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -9555,4 +9554,3 @@ rules:
   - DOMAIN-SUFFIX,vidoomy.com,🛑 全球拦截
   - DOMAIN-SUFFIX,flash.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,gs.getui.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,log.b612kaji.com,🛑 全球拦截
