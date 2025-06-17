@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -8961,4 +8960,3 @@ rules:
   - DOMAIN-SUFFIX,mob.com,🛑 全球拦截
   - DOMAIN-SUFFIX,api.joybj.com,🛑 全球拦截
   - DOMAIN-SUFFIX,api.whizzone.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,mmstat.com,🛑 全球拦截
