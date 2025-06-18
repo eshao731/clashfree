@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -9305,4 +9304,3 @@ rules:
   - DOMAIN-SUFFIX,sifuji.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,sifuka.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,smgru.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,taoggou.com,🛑 全球拦截
