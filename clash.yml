@@ -1,4 +1,3 @@
-  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
@@ -8831,4 +8830,3 @@ rules:
   - DOMAIN-SUFFIX,imgad0.pcauto.com.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,imgad0.pconline.com.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,ivy.pchouse.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,adtrack.ucweb.com,🛑 全球拦截
