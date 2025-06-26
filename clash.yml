@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -8707,4 +8706,3 @@ rules:
   - DOMAIN-SUFFIX,webp2p.letv.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ark.letv.com,🛑 全球拦截
   - DOMAIN-SUFFIX,emma-414870e223.huodonghezi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,g3.letv.com,🛑 全球拦截
