@@ -1,4 +1,3 @@
-mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 clash-for-android:
@@ -8715,4 +8714,3 @@ rules:
   - DOMAIN-SUFFIX,n.mark.letv.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ad.intl.xiaomi.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ad.xiaomi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,admob.xiaomi.com,🛑 全球拦截
