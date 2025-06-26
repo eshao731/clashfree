@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -8701,4 +8700,3 @@ rules:
   - DOMAIN-SUFFIX,img.auction-ads.wpscdn.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,counter.ksosoft.com,🛑 全球拦截
   - DOMAIN-SUFFIX,minfo.wps.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,webp2p.letv.com,🛑 全球拦截
