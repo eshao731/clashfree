@@ -1,4 +1,3 @@
-allow-lan: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
@@ -8735,4 +8734,3 @@ rules:
   - DOMAIN-SUFFIX,logs.chelaile.net.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,doubleclick.net,🛑 全球拦截
   - DOMAIN-SUFFIX,googleadservices.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,googleadsserving.cn,🛑 全球拦截
