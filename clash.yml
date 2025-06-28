@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -8723,4 +8722,3 @@ rules:
   - DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,vdapprecv.app.cntvwb.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,admarket.21cn.com,🛑 全球拦截
