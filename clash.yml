@@ -1,4 +1,3 @@
-  - {name: 🇭🇰 香港3|@ripaojiedian, server: 43.247.135.170, port: 46210, type: vmess, uuid: d1eca706-1aae-42d3-bab0-69995d7b023d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇨🇳 台湾|@ripaojiedian, server: 120.233.128.98, port: 30015, type: ss, cipher: aes-256-gcm, password: dwz1GtF7, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian, server: 43.226.17.11, port: 995, type: ss, cipher: aes-256-gcm, password: fbf9b0db0136, udp: true}
@@ -8616,4 +8615,3 @@ rules:
   - DOMAIN-SUFFIX,googleadservices.com,🛑 全球拦截
   - DOMAIN-SUFFIX,googleadsserving.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,googlesyndication.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,googletagmanager.com,🛑 全球拦截
