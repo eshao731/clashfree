@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -8719,4 +8718,3 @@ rules:
   - DOMAIN-SUFFIX,advertise.baicizhan.com,🛑 全球拦截
   - DOMAIN-SUFFIX,galaxy.bjcathay.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn,🛑 全球拦截
