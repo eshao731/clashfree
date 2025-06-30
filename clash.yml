@@ -1,4 +1,3 @@
-  append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
 dns:
@@ -8699,4 +8698,3 @@ rules:
   - DOMAIN-SUFFIX,ads.internal.unity3d.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,🛑 全球拦截
   - DOMAIN-SUFFIX,unityads.unity3d.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com,🛑 全球拦截
