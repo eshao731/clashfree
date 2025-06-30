@@ -1,4 +1,3 @@
-external-controller: 127.0.0.1:9090
 clash-for-android:
   append-system-dns: false
 hosts:
@@ -44,16 +43,9 @@ proxies:
   - {name: 🇺🇸 美国2|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇺🇸 美国3|@ripaojiedian, server: v24.heduian.link, port: 30824, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v24.heduian.link}}, udp: true}
   - {name: 🇻🇳 越南|@ripaojiedian, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: "tg频道:@ripaojiedian #1", server: 43.203.249.172, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw, udp: true}
   - {name: 🇭🇰 香港3|@ripaojiedian 2, server: 43.247.134.201, port: 59149, type: vmess, uuid: efbdabeb-68df-4cd0-959d-7d4f4b508609, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 香港4|@ripaojiedian 2, server: 183.236.51.37, port: 46621, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇨🇳 台湾|@ripaojiedian 2, server: fiwejniavzoj.xn--fiqs8sjz2bull.com, port: 19490, type: vmess, uuid: fc7b534b-9188-4d81-b804-55b4eb91cd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本3|@ripaojiedian 2, server: ti3hyra4.slashdevslashnetslashtun.net, port: 18008, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UVpWRk5HWlk4MjUzTFpZUA, udp: true}
-  - {name: 🇯🇵 日本4|@ripaojiedian 2, server: ti3hyra4.slashdevslashnetslashtun.net, port: 18009, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206TU5PT1JJVktSUUY0S0dKUA, udp: true}
-  - {name: 🇯🇵 日本5|@ripaojiedian 2, server: ti3hyra4.slashdevslashnetslashtun.net, port: 18013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206V0hUU042VU9PODRUM1JWSQ, udp: true}
-  - {name: 🇸🇬 新加坡|@ripaojiedian 2, server: ti3hyra4.slashdevslashnetslashtun.net, port: 16013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206MDREMkJINkRMN1pLVFhYVA, udp: true}
-  - {name: 🇸🇬 新加坡2|@ripaojiedian 2, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 16014, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206TFJTWU5XRUlIUE40QkFWSA, udp: true}
-  - {name: 🇻🇳 越南|@ripaojiedian 2, server: 103.163.218.2, port: 989, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw, udp: true}
   - {name: ES_speednode_0054, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true}
   - {name: SG_speednode_0155, server: 92.243.75.49, port: 2087, type: trojan, password: wb6368, sni: hsdgbuys.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hsdgbuys.pages.dev}}, udp: true}
   - {name: US_speednode_0253, server: 172.67.191.140, port: 443, type: trojan, password: c7f423b7-ced8-43da-a9ae-e906cb4a222c, sni: DdDdddDDdF.999824.Xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /dwPcFaK3QxWRQTqot0LE, headers: {Host: DdDdddDDdF.999824.Xyz}}, udp: true}
@@ -8710,4 +8702,3 @@ rules:
   - DOMAIN-SUFFIX,unityads.unity3d.com,🛑 全球拦截
   - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adash.man.aliyuncs.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adashbc.ut.taobao.com,🛑 全球拦截
