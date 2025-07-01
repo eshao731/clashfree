@@ -1,4 +1,3 @@
-  listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
   ipv6: true
   use-hosts: true
@@ -8263,4 +8262,3 @@ rules:
   - DOMAIN-SUFFIX,ads.adadapted.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ads.daydaycook.com.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,ads.weilitoutiao.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,adsapi.manhuaren.com,🛑 全球拦截
