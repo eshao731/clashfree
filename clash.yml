@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -8271,4 +8270,3 @@ rules:
   - DOMAIN-SUFFIX,adsdk.dmzj.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adserver.pandora.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adui.tg.meitu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,adv.bandi.so,🛑 全球拦截
