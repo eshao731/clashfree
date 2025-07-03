@@ -1,4 +1,3 @@
-hosts:
   mtalk.google.com: 108.177.125.188
 dns:
   enable: true
@@ -8629,4 +8628,3 @@ rules:
   - DOMAIN-SUFFIX,lnk0.com,🛑 全球拦截
   - DOMAIN-SUFFIX,lnk8.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,localytics.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,measurementapi.com,🛑 全球拦截
