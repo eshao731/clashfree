@@ -1,4 +1,3 @@
-clash-for-android:
   append-system-dns: false
 hosts:
   mtalk.google.com: 108.177.125.188
@@ -8543,4 +8542,3 @@ rules:
   - DOMAIN-SUFFIX,adnyg.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adsensor.org,🛑 全球拦截
   - DOMAIN-SUFFIX,adtarget.tech,🛑 全球拦截
-  - DOMAIN-SUFFIX,adthor.com,🛑 全球拦截
