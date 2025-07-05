@@ -1,4 +1,3 @@
-dns:
   enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [180.184.1.1, 119.29.29.29, 223.5.5.5]
@@ -8559,4 +8558,3 @@ rules:
   - DOMAIN-SUFFIX,adjust.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adjust.io,🛑 全球拦截
   - DOMAIN-SUFFIX,admaster.com.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,admob.com,🛑 全球拦截
